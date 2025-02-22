@@ -1,4 +1,3 @@
 - increase stack size
 - auto sort
-- longer days
-- no food degradation
+- floating items
